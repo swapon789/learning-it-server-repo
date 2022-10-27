@@ -23,6 +23,12 @@ app.get('/course-categories/:id', (req, res) => {
     res.send(selectedCourse)
 });
 
+app.get('/checkOut/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedCourse = course.find(c => c.id === id);
+    res.send(selectedCourse)
+})
+
 
 app.listen(port, () => {
     console.log("learnin It server Running on port", port);
