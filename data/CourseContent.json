@@ -1,0 +1,68 @@
+[
+    {
+        "id": "01",
+        "title": "Graphics Digain",
+        "details": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNaDXqGvXEjf-aJTG_KyB5KJrkWtELjjUpIB30grwjiQOaqevn_khuk9lLWWDk7IX-aXE&usqp=CAU",
+        "age": "38 Years",
+        "trainer_name": "Sayed Ajam",
+        "trainer_Img": "https://image.shutterstock.com/image-photo/young-handsome-man-beard-wearing-260nw-1768126784.jpg",
+        "trainer_email": "sayedajam321@gmail.com",
+        "phone": "+1 (829) 536-3983"
+    },
+    {
+        "id": "02",
+        "title": "Networking",
+        "details": "This hands-on Introduction to Networking course will enable you to take a more active part in the discussion and decision-making processes related to networking technology issues. You take your first step toward networking and data communications exposure, and gain the practical knowledge and skills to become comfortable with basic concepts, technologies, components, and design alternatives. You learn to implement networks using data links and physical media, deploy LANs using Ethernet and Wi-Fi, and build reliable internetworks and intranets using proven TCP/IP design techniques.",
+        "picture": "https://i.ytimg.com/vi/qiQR5rTSshw/maxresdefault.jpg",
+        "age": "27 Years",
+        "trainer_name": "Mst Lamiya Rahman",
+        "trainer_Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH1EkMEUe3JO_iU66ftzlVEe4-f_fG0WQNfw&usqp=CAU",
+        "trainer_email": "lamiya432@gmail.com",
+        "phone": "+1 (967) 463-3299"
+    },
+    {
+        "id": "03",
+        "title": "Web Development",
+        "details": "A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs.",
+        "picture": "https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-1.jpg",
+        "age": "22 Years",
+        "trainer_name": "Md Josim Uddin",
+        "trainer_Img": "https://t4.ftcdn.net/jpg/02/24/86/95/360_F_224869519_aRaeLneqALfPNBzg0xxMZXghtvBXkfIA.jpg",
+        "trainer_email": "josimuddin543@gmail.com",
+        "phone": "+1 (996) 460-2627"
+    },
+    {
+        "id": "04",
+        "title": "Apps Development",
+        "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an  experience within a web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms. Mobile app development has been steadily growing, in revenues and jobs created. A 2013 analyst report estimates there are 529,000 direct app economy jobs within the EU then 28 members (including the UK), 60 percent of which are mobile app developers.[1]",
+        "picture": "https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?w=2000",
+        "age": "28 Years",
+        "trainer_name": "Hridoy Rahman",
+        "trainer_Img": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg?w=2000",
+        "trainer_email": "hridoyrahman765@gmail.com",
+        "phone": "+1 (957) 470-3008"
+    },
+    {
+        "id": "05",
+        "title": "Laravel",
+        "details": "PHP is a server-side scripting language having several frameworks, for instance, Laravel, Symfony, Phalcon and CakePHP etc. The fundamental functioning of these frameworks is to assist in the promotion of rapid application development (RAD). Laravel is chosen preferably by most of the developers over any other Frameworks considering the compatibility and steady pace it offers to its user. Laravel is a free and open source framework based upon model-view-controller which lets developers build smooth web applications. Laravel allows users to access relational database in a different and easy manner by featuring dynamic modular packaging system with dependency manager. Also, the source code for Laravel is facilitated under Github. Since Laravel covers so many features that it enables any novice in PHP to take a great head start.",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiM7ScdYPM-kxK_OPPEyBtvLfEAkJagML8kPd48sysaJ0a1QQ9WfzZg3dwAnl6TXUnyHY&usqp=CAU",
+        "age": "35 Years",
+        "trainer_name": "Md Delowar Hossain",
+        "trainer_Img": "https://t4.ftcdn.net/jpg/02/97/24/51/360_F_297245133_gBPfK0h10UM3y7vfoEiBC3ZXt559KZar.jpg",
+        "trainer_email": "delowarhosen@gmail.com",
+        "phone": "+1 (807) 463-3227"
+    },
+    {
+        "id": "06",
+        "title": "Python",
+        "details": "Python is a general-purpose, object-oriented, high-level programming language. Whether you work in artificial intelligence or finance or are pursuing a career in web development or data science, Python is one of the most important skills you can learn. Python's simple syntax is especially suited for desktop, web, and business applications. Python's design philosophy emphasizes readability and usability. Python was developed on the premise that there should be only one way (and preferably, one obvious way) to do things, a philosophy that resulted in a strict level of code standardization. The core programming language is quite small and the standard library is also large. In fact, Python's large library is one of its greatest benefits.",
+        "picture": "https://i0.wp.com/elysiumacademy.org/wp-content/uploads/2018/12/framework.jpg",
+        "age": "26 Years",
+        "trainer_name": "Rakib Rahman",
+        "trainer_Img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "trainer_email": "rakibhasan@gmail.com",
+        "phone": "+1 (993) 401-2350"
+    }
+]
